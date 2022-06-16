@@ -39,7 +39,7 @@ input.search {
   margin: 0;
   padding: 0;
   position: relative;
-  /*perspective: 20px;*/
+  perspective: 20px;
 }
 
 .suggestions li {
@@ -50,7 +50,8 @@ input.search {
   margin: 0;
   padding: 20px;
   transition: background 0.2s;
-  display: flex;
+  display: fle
+  x;
   justify-content: space-between;
   text-transform: capitalize;
 }
